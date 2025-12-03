@@ -4,5 +4,5 @@ This repository contains my professional resume for 2025.
 
 ## 🔗 Download
 
-👉 [Click here to download (PDF)](./ejaz-uddin-swaron-resume.pdf)
+👉 [Click here and then press the download icon (top right of the resume) to download (PDF)](./ejaz-uddin-swaron-resume.pdf)
 
